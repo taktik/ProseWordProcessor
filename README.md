@@ -1,0 +1,1 @@
+# Small demo of the ProseMirror text editor with Bold, Italic, Underline and Alignment functionalities (Text color pending)
