@@ -1,3 +1,8 @@
+/*
+	Credits to pboysen for this module:
+	https://github.com/pboysen/prosemirror-widgets
+*/
+
 'use strict'
 
 var Model = require('prosemirror/dist/model');
